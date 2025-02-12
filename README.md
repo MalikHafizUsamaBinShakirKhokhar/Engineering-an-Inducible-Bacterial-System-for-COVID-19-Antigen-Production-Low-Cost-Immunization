@@ -1,2 +1,3 @@
 # Engineering-an-Inducible-Bacterial-System-for-COVID-19-Antigen-Production-Low-Cost-Immunization
 Engineering an Inducible Bacterial System for COVID-19 Antigen Production:  Low-Cost Immunization
+This project engineered an inducible bacterial system to express SARS-CoV-2 surface glycoproteins in E. coli, enabling low-cost antigen production for passive immunization. By optimizing plasmid design, protein expression, and purification protocols, the system achieved a 10x cost reduction compared to commercial methods. This work exemplifies the integration of synthetic biology, molecular cloning, and scalable bioprocessing—skills critical to JHU’s focus on translational biomolecular engineering.
